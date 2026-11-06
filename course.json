@@ -1,0 +1,31 @@
+{
+  "course_id": "ICB-V05",
+  "repository": "icb-v05-icobc-certified-lead-reviewer",
+  "repository_url": "https://github.com/ICoBC/icb-v05-icobc-certified-lead-reviewer",
+  "title": "ICoBC Certified Lead Reviewer",
+  "subtitle": "Certification for reviewers who conduct Global Quality Seal reviews.",
+  "version": "1.0.0",
+  "series": "Validation",
+  "skill": "Quality assurance and accreditation",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "C",
+  "stage_name": "Competency",
+  "alignment_code": "ICSF-QUAL-L4-C",
+  "badge_name": "ICoBC Certified Lead Reviewer (Competency, L4)",
+  "hours": "20",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-v05/",
+  "parts": [
+    "About this course",
+    "Supervised review guidance",
+    "Calibration requirements",
+    "Certification panel",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 12
+}
